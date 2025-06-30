@@ -402,6 +402,12 @@
     "virtual": true
   },
     {
+    "icao": "SOJ",
+    "name": "SOSIJ Airlines",
+    "callsign": "Sausage",
+    "virtual": true
+  },
+    {
     "icao": "CZN",
     "name": "Cruizing Air",
     "callsign": "Cruizing",
